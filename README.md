@@ -1,4 +1,4 @@
-### Hi, I'm Tosif. Nice to meet you. 👋
+### Hi, I'm Tosif 👋
 
 - 🔭 I’m currently working on Flutter App Development
 - 🌱 I’m currently learning Machine Learning and Artifical Intellegence
