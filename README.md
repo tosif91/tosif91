@@ -1,11 +1,15 @@
 ### Hi, I'm Tosif 👋
 
-- 🔭 I’m currently working on Flutter App Development
-- 🌱 I’m currently learning Machine Learning and Artifical Intellegence
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with the open source project on flutter
-- 💬 Ask me about Flutter or any tech related stuff
-- 📫 How to reach me: https://tosifmid.wixsite.com/tosifk
+- 🔭 I’m currently working as Software Engineer lvl-1 at [IndiaNic](https://www.indianic.com/)
+
+- 🌱 I’m currently learning ML and AI
+
+- 👯 I’m looking to collaborate in open source projects
+
+- 💬 Ask me about Android/Flutter or any tech related stuff
+
+- 📫 How to reach me: [click here](https://tosifmid.wixsite.com/tosifk)
+
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am available 24 hours
+
 -->
