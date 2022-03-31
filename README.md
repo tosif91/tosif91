@@ -6,9 +6,7 @@
 
 - 👯 Looking to collaborate in open source projects
 
-- 💬 Ask me about Android/Flutter or any tech related stuff
-
-- 📫 How to reach me: [click here](https://tosifmid.wixsite.com/tosifk)
+- 💬 Ask me about ML/Android/Flutter or any tech related stuff
 
 - 😄 Pronouns: He/His
 
